@@ -12,7 +12,7 @@
     <artifactId>application</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>application</name>
-    <description>application</description>
+    <description>Project to find the most active cookie for a given date from cookie log file</description>
     <properties>
         <java.version>11</java.version>
         <repackage.classifier/>
