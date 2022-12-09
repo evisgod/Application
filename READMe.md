@@ -26,7 +26,7 @@ $ ./mvnw spring-boot:build-image
 Run the app using simple maven command in cli:
 
 ```
-$ ./mvnw spring-boot:run -Dspring-boot.run.arguments="-f FILEPATH -d DATE
+$ ./mvnw spring-boot:run -Dspring-boot.run.arguments="-f FILEPATH -d DATE"
 ```
 
 Then, you can run the app like any other container:
